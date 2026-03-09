@@ -70,8 +70,6 @@ const Sidebar = () => {
         <div className="flex items-center justify-center">
           <GoLocation className="mr-2" /> <span>Toronto, Ontario </span>
         </div>
-        <p className="my-2 "> rchang0501@gmail.com </p>
-        <p className="my-2"> (416) 316-5322 </p>
       </div>
 
       {/* Email Button */}
